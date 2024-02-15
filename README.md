@@ -6,4 +6,4 @@ Projeto de perguntas feito no programa da NLW-experts para ajudar no aprendizado
 - html 5
 - css 3
 - Js
--GitHub
+- GitHub
